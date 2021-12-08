@@ -5,7 +5,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'ChosunGs';
+    font-family: 'Cafe24Syongsyong';
     font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/Cafe24Syongsyong/Cafe24Syongsyong.eot');
